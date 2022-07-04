@@ -375,9 +375,7 @@ body{
 	letter-spacing: 1px;
 }
 
-/*comment*/
-#background{
-background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, deeppink) fixed;
+
 
 }
 #comment-box, #post, #name{
